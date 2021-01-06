@@ -123,8 +123,9 @@ section {
 }
 
 .main-area {
-    padding: 10%;
     margin: auto;
+    padding: 5%;
+    margin-left: 3%;
     overflow: hidden;
 }
 
@@ -218,3 +219,18 @@ section {
     height: 40px;
     margin-right: 10px;
 }
+
+
+/*meet team section css start*/
+
+#teamMember {
+    width: 200px;
+    margin: -50px 0px -50px 50px;
+}
+
+#ourTeam {
+    text-align: center;
+}
+
+
+/*meet team section css end*/
